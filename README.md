@@ -1,1 +1,1 @@
-https://github.com/NodNar-BB/CatLog/index.html
+https://nodnar-bb.github.io/CatLog/
